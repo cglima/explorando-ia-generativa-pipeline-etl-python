@@ -9,5 +9,4 @@ Vocês já mergulharam a fundo no mundo da Ciência de Dados conosco! Juntos, co
 ## Links Úteis
 
 1. [Santander Dev Week 2023 (ETL com Python)](https://colab.research.google.com/drive/1SF_Q3AybFPozCcoFBptDSFbMk-6IVGF-?usp=sharing)
-2.[RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3](https://github.com/digitalinnovationone/santander-dev-week-2023-api)
-
+2. [RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3](https://github.com/digitalinnovationone/santander-dev-week-2023-api)
